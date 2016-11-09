@@ -38,5 +38,8 @@
     "standard": "^8.5.0",
     "tap-xunit": "^1.4.0",
     "tape": "^4.6.2"
+  },
+  "publishConfig": {
+    "registry": "https://modusbox.jfrog.io/modusbox/api/npm/level1-npm-release"
   }
 }
