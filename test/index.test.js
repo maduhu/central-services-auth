@@ -26,5 +26,10 @@ Test('Auth module', moduleTest => {
     registerTest.end()
   })
 
+  moduleTest.test('name should be central-services-auth', test => {
+    test.equal(AuthModule.register.attributes.name, 'central-services-auth')
+    test.end()
+  })
+
   moduleTest.end()
 })
