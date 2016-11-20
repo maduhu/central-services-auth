@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/LevelOneProject/central-services-auth#readme",
   "dependencies": {
-    "@leveloneproject/central-services-shared": "^0.2.0"
+    "@leveloneproject/central-services-shared": "^0.3.0"
   },
   "devDependencies": {
     "faucet": "0.0.1",
