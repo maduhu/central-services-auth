@@ -1,6 +1,6 @@
 {
   "name": "@leveloneproject/central-services-auth",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Authentication module for central services",
   "main": "src/index.js",
   "scripts": {
