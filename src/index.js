@@ -12,3 +12,5 @@ exports.register = (server, options, next) => {
 exports.register.attributes = {
   name: 'central-services-auth'
 }
+
+exports.UnauthorizedError = require('./auth/unauthorized')
